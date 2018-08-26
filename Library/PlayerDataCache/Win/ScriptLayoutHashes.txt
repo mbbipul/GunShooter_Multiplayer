@@ -180,7 +180,7 @@ e033f131358cea5a0eabf9561e781deb UnityEngine.TestRunner.dll:UnityEngine.TestTool
 28a95668dd28649297d595834fe8417e UnityEngine.GoogleAudioSpatializer.dll:UnityEngine.Experimental.Audio.Google.GvrAudioSoundfieldExtension
 28a95668dd28649297d595834fe8417e UnityEngine.GoogleAudioSpatializer.dll:UnityEngine.Experimental.Audio.Google.GvrAudioSourceExtension
 5e662ce00ebc5bdabf8eabe267788a5a Assembly-CSharp-firstpass.dll:UnityStandardAssets.Utility.DynamicShadowSettings
-1dcfb0b6e1e66b3486dd83a827eb879f Assembly-CSharp.dll:.PlayerShoot
+872273ab6666cc481bb2e2635a905ca1 Assembly-CSharp.dll:.PlayerShoot
 d75dc834c5dec688db75a55a1724c90f UnityEngine.HoloLens.dll:UnityEngine.Audio.AudioSpatializerMicrosoft
 486cd95c82d8305219c352c06b776e1f UnityEngine.HoloLens.dll:UnityEngine.EventSystems.HoloLensInput
 e1ea12ca952c81d81a9a21fdf34446ed UnityEngine.HoloLens.dll:UnityEngine.EventSystems.HoloLensInputModule
@@ -192,6 +192,7 @@ a8235c217b6cf2fe27dca896710ae4ec Assembly-CSharp-firstpass.dll:UnityStandardAsse
 f5476454eb86e1817e25a825263133c9 Assembly-CSharp-firstpass.dll:UnityStandardAssets.Effects.SmokeParticles
 ebc31dc7976aeffcc84e23b049016bd0 Assembly-CSharp-firstpass.dll:UnityStandardAssets.Utility.FollowTarget
 2d5613dfea5ebe89d441816537142920 Assembly-CSharp-firstpass.dll:UnityStandardAssets.CrossPlatformInput.TouchPad
+872462c619126fa59331202f68a71dc4 Assembly-CSharp.dll:.WeaponManager
 d5b02460e25e9140641cfed6282efcf1 Assembly-CSharp.dll:.PlayerMotor
 8b3446a9a16c3cd164ba24b04a50e482 Assembly-CSharp.dll:.GameManager
 63b1d9ebe2d595f39b6b7350000aa0e6 Assembly-CSharp-firstpass.dll:UnityStandardAssets.Effects.Explosive
@@ -202,3 +203,5 @@ e04611b8715e6833d2bd7010fc6be10b Unity.TextMeshPro.dll:TMPro.TMP_StyleSheet
 3011159e3f4064914d1c33e254449b76 Assembly-CSharp.dll:.Player
 93307bd34e39d73fd24e00ec39c25a91 Unity.TextMeshPro.dll:TMPro.TMP_SubMesh
 695c9335429d4798b6f74ca73c042ff4 Assembly-CSharp-firstpass.dll:UnityStandardAssets.Utility.AutoMobileShaderSwitch
+cecf74a4a014467f492fa5579fb4b397 Facebook.Unity.Settings.dll:Facebook.Unity.Settings.FacebookSettings
+017c5885467cf784d948cb2006f91251 Assembly-CSharp.dll:.WeaponGraphics
