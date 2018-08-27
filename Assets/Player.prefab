@@ -815,6 +815,7 @@ MonoBehaviour:
   playerGraphics: {fileID: 1973726643621864}
   playerUIPrefab: {fileID: 1360399428694736, guid: abec5ff4eb209d14a9acbb4cdb45cdce,
     type: 2}
+  playerUIInstance: {fileID: 0}
 --- !u!114 &114485878101041802
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -881,6 +882,13 @@ MonoBehaviour:
   disableOnDeath:
   - {fileID: 114750319375248022}
   - {fileID: 114054859145590826}
+  disableGameObjectOnDeath:
+  - {fileID: 1973726643621864}
+  - {fileID: 1632886575888478}
+  deathEffect: {fileID: 1191887091027312, guid: 59304e8d8b55b904b8df70f31ff71f8e,
+    type: 2}
+  spwanEffect: {fileID: 1693492922320474, guid: 5a33ed2f104403d48aae448d699c2921,
+    type: 2}
 --- !u!114 &114605600852085182
 MonoBehaviour:
   m_ObjectHideFlags: 1

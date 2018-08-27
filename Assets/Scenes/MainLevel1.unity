@@ -142,6 +142,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   matchSettings:
     respawnTime: 3
+  sceneCamera: {fileID: 1293032879}
 --- !u!4 &292108708
 Transform:
   m_ObjectHideFlags: 0
@@ -200,7 +201,7 @@ Prefab:
       objectReference: {fileID: 2100000, guid: 225cc3f49d0e7fc42ae258c565b7dd5c, type: 2}
     - target: {fileID: 100000, guid: 3f79402ff4ca9c54d96a09d1a77540d5, type: 3}
       propertyPath: m_Layer
-      value: 13
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3f79402ff4ca9c54d96a09d1a77540d5, type: 3}
@@ -353,7 +354,7 @@ Prefab:
       objectReference: {fileID: 2100000, guid: 225cc3f49d0e7fc42ae258c565b7dd5c, type: 2}
     - target: {fileID: 100000, guid: 3f79402ff4ca9c54d96a09d1a77540d5, type: 3}
       propertyPath: m_Layer
-      value: 13
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3f79402ff4ca9c54d96a09d1a77540d5, type: 3}
@@ -487,7 +488,7 @@ Prefab:
       objectReference: {fileID: 2100000, guid: 225cc3f49d0e7fc42ae258c565b7dd5c, type: 2}
     - target: {fileID: 100000, guid: df4796b594b970842b69211cb0078c5d, type: 3}
       propertyPath: m_Layer
-      value: 13
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: df4796b594b970842b69211cb0078c5d, type: 3}
@@ -892,7 +893,7 @@ Prefab:
       objectReference: {fileID: 2100000, guid: 441669ee90f95a74cad3188b546096ab, type: 2}
     - target: {fileID: 100000, guid: fadddc63520db414bbc9126cbf4743ad, type: 3}
       propertyPath: m_Layer
-      value: 13
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fadddc63520db414bbc9126cbf4743ad, type: 3}
