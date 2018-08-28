@@ -2,6 +2,7 @@ WindowsStandalone
 PlayerPath?
 G:/Unity/Project/Learn2_Multiplayer/Build/Learn2_Multiplayer.exe
 SceneListBegin?
+Assets/Scenes/Lobby.unity
 Assets/Scenes/MainLevel1.unity
 SceneListEnd?
 c422dd62785a6d0afa870fbd111886ce Unity.TextMeshPro.dll:TMPro.TMP_SelectionCaret

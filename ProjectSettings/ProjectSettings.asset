@@ -652,9 +652,9 @@ PlayerSettings:
     UNet: 1
   facebookSdkVersion: 7.9.4
   apiCompatibilityLevel: 2
-  cloudProjectId: 
-  projectName: 
-  organizationId: 
+  cloudProjectId: 178b3847-e3c7-45f4-8fec-ba41fdb5fda1
+  projectName: Learn2_Multiplayer
+  organizationId: bb_bipul
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
   disableOldInputManagerSupport: 0
