@@ -23,15 +23,21 @@ public class HostGame : MonoBehaviour
     public void SetRoomName(string _name)
     {
         roomName = _name;
+        Debug.Log("room name set to " + roomName);
     }
 
     public void CreateRoom()
     {
+        Debug.Log("room createds " + roomName);
+
         if (roomName != "" && roomName != null)//check room name is not null
         {
             Debug.Log("Creating Room: " + roomName + " with room for " + roomSize + " players.");
             networkManager.matchMaker.CreateMatch(roomName, roomSize, true, "","","",0,0, networkManager.OnMatchCreate);
+            Debug.Log("room created " + roomName);
+
         }
+
     }
 
 }
